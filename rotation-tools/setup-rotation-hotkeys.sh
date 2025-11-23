@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-SCRIPT="/home/s/soft/Lenovo/rotate-wayland.py"
+# Absolute path to rotate-wayland.py in the same directory as this script.
+SCRIPT="$(readlink -f "$(dirname "$0")/rotate-wayland.py")"
 BASE="/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings"
 SCHEMA="org.gnome.settings-daemon.plugins.media-keys.custom-keybinding"
 
