@@ -1,0 +1,2 @@
+/home/s/.local/lib/qt6/plugins/org.kde.kdecoration3/kwin-clock-decoration.so
+/home/s/.local/share/kwin/decorations/kwin-clock-decoration/metadata.json

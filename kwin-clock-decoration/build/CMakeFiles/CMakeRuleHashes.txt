@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+9447566f033b50010187d6dd2c219a25 CMakeFiles/fetch-translations
+02e4019eaf7cb2db815f1c316093a643 CMakeFiles/uninstall
+755cf327ce7ee204151791a191ca8e7e releaseme
+966180691f27d68813890194bca3b6c4 src/CMakeFiles/kwin-clock-decoration_autogen
+ff17b615c6431ab0de889c9bd95832e0 src/kwin-clock-decoration_autogen/timestamp

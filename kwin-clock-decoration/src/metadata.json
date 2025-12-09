@@ -1,0 +1,18 @@
+{
+  "KPlugin": {
+    "Id": "kwin-clock-decoration",
+    "Name": "Clock Buttons",
+    "Description": "Window decoration with clock text beside window buttons",
+    "Version": "0.2.0",
+    "License": "GPL-3.0-or-later",
+    "EnabledByDefault": false,
+    "Category": "Plasma 6 Window Decorations",
+    "ServiceTypes": [
+      "org.kde.kdecoration3"
+    ]
+  },
+  "X-KDE-PluginInfo-Name": "kwin-clock-decoration",
+  "X-KDE-PluginInfo-Version": "0.2.0",
+  "X-KDE-PluginInfo-Category": "Plasma 6 Window Decorations",
+  "X-KDE-PluginInfo-License": "GPL-3.0-or-later"
+}
